@@ -1,4 +1,5 @@
 public class AI implements Player {
+    protected String Ton;
     protected String name;
     AI(String name){
 
